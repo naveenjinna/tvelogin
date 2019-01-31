@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="335532" started-at="2019-01-31T06:46:52Z" finished-at="2019-01-31T06:52:28Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="335532" started-at="2019-01-31T06:46:52Z" finished-at="2019-01-31T06:52:28Z">
+      <class name="com.dropdown.testtask.AppTest">
+        <test-method status="PASS" signature="testApp()[pri:0, instance:com.dropdown.testtask.AppTest@49993335]" name="testApp" duration-ms="8" started-at="2019-01-31T06:47:04Z" finished-at="2019-01-31T06:47:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testApp -->
+      </class> <!-- com.dropdown.testtask.AppTest -->
+      <class name="com.dropdown.testtask.Dropdowntest">
+        <test-method status="PASS" signature="launchingchrome()[pri:0, instance:com.dropdown.testtask.Dropdowntest@5025a98f]" name="launchingchrome" is-config="true" duration-ms="11463" started-at="2019-01-31T06:46:52Z" finished-at="2019-01-31T06:47:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchingchrome -->
+        <test-method status="PASS" signature="navigatingtourl()[pri:0, instance:com.dropdown.testtask.Dropdowntest@5025a98f]" name="navigatingtourl" duration-ms="2346" started-at="2019-01-31T06:47:04Z" finished-at="2019-01-31T06:47:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigatingtourl -->
+        <test-method status="PASS" signature="checkloginfunctionality()[pri:1, instance:com.dropdown.testtask.Dropdowntest@5025a98f]" name="checkloginfunctionality" duration-ms="1363" started-at="2019-01-31T06:47:06Z" finished-at="2019-01-31T06:47:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkloginfunctionality -->
+        <test-method status="PASS" signature="navigatetocheckprofilestatus()[pri:2, instance:com.dropdown.testtask.Dropdowntest@5025a98f]" name="navigatetocheckprofilestatus" duration-ms="1641" started-at="2019-01-31T06:47:08Z" finished-at="2019-01-31T06:47:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigatetocheckprofilestatus -->
+        <test-method status="PASS" signature="handledropdown()[pri:3, instance:com.dropdown.testtask.Dropdowntest@5025a98f]" name="handledropdown" duration-ms="318658" started-at="2019-01-31T06:47:09Z" finished-at="2019-01-31T06:52:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- handledropdown -->
+      </class> <!-- com.dropdown.testtask.Dropdowntest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
